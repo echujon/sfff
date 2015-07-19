@@ -175,11 +175,18 @@ class FGContactForm
     function SendFormSubmission()
     {
         $this->CollectConditionalReceipients();
-
+        $this->mailer->ISSMTP();
+        $this->mailer->SMTPAuth = true;
+		$this->mailer->SMTPSecure = "ssl";
+		$this->mailer->Host='smtp.gmail.com';  
+		$this->mailer->Port='465';   
+		$this->mailer->SMTPKeepAlive = true;  
+		$this->mailer->Mailer = "smtp"; 
         $this->mailer->CharSet = 'utf-8';
-        
+        $this->mailer->Username = "saltflatsfilmfestival@gmail.com";  // SMTP username
+		$this->mailer->Password = "ch@ngem3"; // SMTP password
         $this->mailer->Subject = "$this->subject question from $this->name";
-        
+        $this->mailer->SMTPDebug  = 1;
         $this->mailer->From = $this->GetFromAddress();
 
         $this->mailer->FromName = $this->name;
@@ -192,7 +199,7 @@ class FGContactForm
         $this->mailer->AltBody = @html_entity_decode($textMsg,ENT_QUOTES,"UTF-8");
         $this->mailer->MsgHTML($message);
 
-        $this->AttachFiles();
+        //$this->AttachFiles();
 
         if(!$this->mailer->Send())
         {
