@@ -5,6 +5,10 @@ All the style elements use form id selector(notice the #contactus). So, includin
 stylesheet does not affect the other elements at all!
 */
 
+.form-group {
+  margin-bottom: 10px;
+}
+
 #contactus fieldset
 {
    width:320px;
@@ -57,14 +61,14 @@ border-radius: 10px;
 #contactus .custom-select:after{
     content: "▼";
     position: absolute;
-    top: 15px;
-    right: 30px;
+    top: 20px;
+    right: 0px;
     bottom: 0;
     font-size: 60%;
     line-height: 30px;
     padding: 0 7px;
     pointer-events: none;
-   }
+}
 #contactus select
 {
   height:35px;
@@ -107,7 +111,7 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill, text
 #contactus textarea
 {
   height:120px;
-  width:310px;
+  width:300px;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
    border-radius: 8px;  
@@ -129,7 +133,7 @@ input[type="text"], input[type="password"], textarea, select {
   background-color : rgb(76, 180, 76);
 }
 
-#contactus .container
+#contactus
 {
    margin-top:8px;
    margin-bottom: 10px;
@@ -164,8 +168,8 @@ input[type="text"], input[type="password"], textarea, select {
 #contactus .short_explanation
 {
    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-   font-size: 0.6em;
-   color:#333;   
+   font-size: 0.9em;
+   color:#333; 
 }
 
 /* spam_trap: This input is hidden. This is here to trick the spam bots*/

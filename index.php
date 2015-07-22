@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
  <head>
- 	<meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <?php include_once('links.php')?> 
  <?php include_once('jssor_links.php')?>
   <title>Salt Flats Film Festival</title>

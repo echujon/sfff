@@ -1,20 +1,20 @@
 <p>If you have any questions about the film festival, let us know.</p>		 
 <!-- Form Code Start -->
-<form autocomplete="off" id='contactus' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+<form autocomplete="off" class="form-horizontal" id='contactus' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
 	<fieldset >
 		<input type='hidden' name='submitted' id='submitted' value='1'/>
 		<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
 		<input type='text'  class='spmhidip' name='<?php echo $formproc->GetSpamTrapInputName(); ?>' />
 
-		<div class='short_explanation'>* required fields</div>
+		<div class='form-group short_explanation'>* required fields</div>
 
 		<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
-		<div class='container'>
+		<div class='form-group'>
 			<label for='name' >Name*: </label><br/>
 			<input type='text' name='name' id='name' value='<?php echo $formproc->SafeDisplay('name') ?>' maxlength="50" /><br/>
 			<span id='contactus_name_errorloc' class='error'></span>
 		</div>
-		<div class='container custom-select'>
+		<div class='form-group custom-select'>
 			<label for='subject' >Subject: </label><br/>
 			<select id='subject' name='subject'>
 				<option value="film-festival">film festival question</option>
@@ -22,20 +22,20 @@
 			</select>
 		</div>
 
-		<div class='container'>
+		<div class='form-group'>
 			<label for='email' >Email Address*:</label><br/>
 			<input type='text' name='email' id='email' value='<?php echo $formproc->SafeDisplay('email') ?>' maxlength="50" /><br/>
 			<span id='contactus_email_errorloc' class='error'></span>
 		</div>
 
-		<div class='container'>
+		<div class='form-group'>
 			<label for='message' >Message*:</label><br/>
 			<textarea rows="10" cols="50" name='message' id='message'><?php echo $formproc->SafeDisplay('message') ?></textarea>
 			<span id='contactus_message_errorloc' class='error'></span>
 		</div>
 
 
-		<div class='container'>
+		<div class='form-grou'>
 			<input type='submit' name='Submit' value='Submit' />
 		</div>
 

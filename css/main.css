@@ -7,25 +7,23 @@ hmtl, body, div, span {
 	border; 0;
 }
 body {
-	background:#dddddd;
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-	min-width: 1024px;
+	background-color:#dddddd !important;
 	overflow: scroll;
 }
 h1, h2, h3, h4 {
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight: 500;
-	color: #3F3F76;
+	color: #3F3F76 !important;
 }
 
-a, a:visited {
+#content a, a:visited {
   text-decoration: none;
   color: rgb(76, 180, 76);
   font-weight: 500;
 }
 
-a:hover {
-	color: rgb(64, 90, 72);
+.section a:hover, #footer a:hover {
+	color: rgb(64, 90, 72) !important;
+	text-decoration: none;
 }
 
 
@@ -34,8 +32,8 @@ a:hover {
 	text-align: center;
 }
 #nav_header {
-	background-color: #405A48;	
-	height:74px;
+	background-color: #404076;	
+	height:74px !important;
 	margin: 0;
 	padding: 0;
 	border: 0;
