@@ -117,9 +117,9 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill, text
    border-radius: 8px;  
 }
 
-.alert-success 
+.message.success
 {	
-	color: rgb(64, 90, 72);;
+	rgb(64, 64, 118);
 }
 input[type="text"], input[type="password"], textarea, select { 
     outline: none;

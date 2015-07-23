@@ -26,7 +26,7 @@ if(isset($_POST['submitted']))
    if($formproc->ProcessForm())
    {
         //$formproc->RedirectToURL("/");
-         $result="<div class=\"alert-success\">Thank you $formproc->name, your message has been sent. We will try
+         $result="<div class=\"message success\">Thank you $formproc->name, your message has been sent. We will try
          to respond soon.</div>";
    }
    else {
