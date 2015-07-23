@@ -10,7 +10,7 @@
         }
         .captionOrange
         {
-            background:#405A48;
+            background:#404076;
             opacity: .6;
            
         }
@@ -128,8 +128,8 @@
         <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 800px; height: 400px; overflow: hidden;">
              <div>
              	<a href="/about">
-					<img u="image" src="/img/utah_tree.jpg" />
-					<div u=caption t="*" class="captionOrange"  style="position:absolute; left:20px; top: 30px; width:400px; height:30px;"> 
+					<img u="image" src="/img/about.png" />
+					<div u=caption t="*" class="captionOrange"  style="position:absolute; left:350px; top: 30px; width:400px; height:30px;"> 
 					What is the Salt Flats Film Festival?
 					</div>
                 </a>
@@ -137,7 +137,7 @@
              <div>
              	<a href="/submit">
 					<img u="image" src="/img/sfff_rider.jpg" />
-					<div u=caption t="*" class="captionOrange"  style="position:absolute; left:325px; top: 130px; width:150px; height:60px;"> 
+					<div u=caption t="*" class="captionOrange"  style="position:absolute; left:300px; top: 130px; width:400px; height:30px;"> 
 						Submit Your Film
 					</div>
                 </a>
