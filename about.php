@@ -5,6 +5,7 @@
  </head>
  <body>
   <?php include_once('header.php')?> 
+  <div class="container">
 	 <div id="content">
 			<div class="section">	
 				<h3>What Is It?</h3>
@@ -33,7 +34,8 @@
 				<p>The Joy Foundation is presenting the Salt Flats Film Festival.
 				Please visit their <a href="http://kidsfindjoy.org">site</a> to get more information in what they do.</p>
 			</div>
-	 </div>
+	 	</div>
+	</div>
  <?php include_once('footer.php')?> 
  </body>
 </html>

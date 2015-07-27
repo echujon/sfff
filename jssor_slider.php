@@ -121,7 +121,7 @@
     </script>
     <!-- Jssor Slider Begin -->
     <!-- To move inline styles to css file/block, please specify a class name for each element. --> 
-    <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 800px; height: 400px; min-height: 400px; overflow: hidden; ">
+    <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 800px; height: 400px; overflow: hidden; ">
 
         <!-- Loading Screen -->
         <!-- Slides Container -->

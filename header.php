@@ -14,17 +14,24 @@
 ?>
 <div id="nav_header">
 	<div class="container">
+		<div class="menu">
+			<button class="menu-button">
+				<i class="fa fa-bars fa-2x"></i>
+			</button>
+		</div>
 		<div class="circle <?php echo "${active['index']}"?>">
 			<a id="logo" href="/">
 				<img src= "/img/sfff_logo.png">
 			</a>
 		</div>
-		<ul id="nav">
-			<li><a <?php echo "${active['about']}" ?>href="/about">About</a></li>
-			<li><a <?php echo "${active['submit']}" ?>href="/submit">Submit Your Film</a></li>
-			<li><a <?php echo "${active['contact']}" ?>href="/contact">Contact</a></li>
-			<li><a <?php echo "${active['sponsors']}" ?>href="/sponsors">Sponsors</a></li>
-		</ul>
+		<div id="nav">
+			<ul>
+				<li><a <?php echo "${active['about']}" ?>href="/about">About</a></li>
+				<li><a <?php echo "${active['submit']}" ?>href="/submit">Submit Your Film</a></li>
+				<li><a <?php echo "${active['sponsors']}" ?>href="/sponsors">Sponsors</a></li>
+				<li><a <?php echo "${active['contact']}" ?>href="/contact">Contact</a></li>
+			</ul>
+		</div>
 		<div class="social-media">
 			<a href="https://facebook.com/saltflatsfilmfestival">
 				<i class="fa fa-facebook-square fa-2x"></i>
