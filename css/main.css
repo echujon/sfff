@@ -135,6 +135,9 @@ h1, h2, h3, h4 {
 		width: 100%;
 		padding: 0;
 		list-style: none;
+		position: relative;
+		left: 40px;
+		top: 20px;
 	}	
 #nav li {
 	/*padding: 9px 9px 10px;*/
@@ -162,6 +165,8 @@ h1, h2, h3, h4 {
 		padding: 0;
 		list-style: none;
 		display: block !important;
+		left: 0;
+		top: 0;
 	}
 	
 	#nav li {
@@ -247,7 +252,7 @@ div.section {
 	border: 0;
 }
 
-@media (max-width: 601px){
+@media (max-width: 599px){
 	#nav_header .social-media {
 		display: none;
 	}
@@ -259,8 +264,5 @@ div.section {
 	}
 	#nav{
 		display: none;
-		position: relative;
-		left: 40px;
-		top: 20px;
 	}
 }
