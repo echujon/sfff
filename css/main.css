@@ -237,18 +237,10 @@ div.section {
 }
  .menu-button .fa {
 	color:  #FFFFFF;
-	opacity: .6;
 }
 
-.menu-button .fa:hover, .menu-button.active .fa {
-	opacity: 1;
-}
-
-.menu-button.actice .fa {
-	opacity: 1;
-}
 .menu button {
-	background-color:#3B3B6F;
+	background-color: #404076;
 	border: 0;
 }
 
