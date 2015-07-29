@@ -8,7 +8,7 @@
  	<div class="container">
 		<div id="content">
 			<h3 class="text-center">Submitting Your Film</h3>
-			<img src="/img/filming.jpg" class=" title img-responsive center-block" ></img>
+			<img src="/img/sfff_filming.jpg" class=" title img-responsive center-block" ></img>
 			<div class="row">
 				<div class="col-md-5">
 					<h4 class="underline">So you want to submit a film?</h4>
