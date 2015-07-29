@@ -7,33 +7,38 @@
   <?php include_once('header.php')?> 
   <div class="container">
 	 <div id="content">
-			<div class="section">	
-				<h3>What Is It?</h3>
-				<p>The Salt Flats Film Festival is a platform for local filmmakers
-				to show their creative art through the medium of film.</p>
-				<p>We encourage all types of filmmakers from professional to amateur
-				and everything in between to <a href="/submit">submit a film</a>.</p>
-				<p>In particular we would like young and upcoming filmmakers to
-				show us their skills on film. We have a special category and
-				prizes for our talented young artists.</p>
-				<p> The screening will be held at the Joy Foundation on
-				September 18th, 2015.</br> Award ceremony will be held on September 19th
-				at 7:00 pm ath the Joy Foundation.</br> 
-				</p>
-				<p>	
-				Address:</br>
-				Joy Foundation </br>
-				38 East 400 South</br>
-				Bountiful, UT 84010</br> 
-				</p>
-				<h3>The Joy Foundation</h3>
-				<p>The Joy Foundation is a 501(c)(3) non-profit organization. Its mission is
-				to help local youth to discover talents, 
-				develop confidence and overcome adversity 
-				through the arts.</p>
-				<p>The Joy Foundation is presenting the Salt Flats Film Festival.
-				Please visit their <a href="http://kidsfindjoy.org">site</a> to get more information in what they do.</p>
-			</div>
+			<div class="row">
+				<div class="col-md-5">
+					<div class="content-left">
+					<h3>What Is It?</h3>
+					<p>The Salt Flats Film Festival is a platform for local filmmakers
+					to show their creative art through the medium of film.</p>
+					<p>We encourage all types of filmmakers from professional to amateur
+					and everything in between to <a href="/submit">submit a film</a>.</p>
+					<p>In particular we would like young and upcoming filmmakers to
+					show us their skills on film. We have a special category and
+					prizes for our talented young artists.</p>
+					<p>For more information about the schedule and prizes at the Salt Flats Festival go to our 
+					<a href="/events-and-awards">events and awards
+					page</a>.</p>
+					</div>
+				</div>
+				<div class="col-md-7">
+					<h3>The Joy Foundation</h3>
+					<p>The Joy Foundation is presenting the Salt Flats Film Festival.
+					Funding that comes from the film festival will be used to further
+					the misson of the Joy Foundation.</p>
+					<p>The Joy Foundation is a 501(c)(3) non-profit organization. Its mission is
+					to help local youth to discover talents, 
+					develop confidence and overcome adversity 
+					through the arts.</p>
+					<p>Please visit the Joy Foundation's site,
+					by clicking on the image below, to get more information on what they do.</p>
+					<a href="http://kidsfindjoy.org"><img src="/img/joy_foundation.png" class="img-responsive" ></img>
+					</a>
+				</div>
+				
+	 		</div>
 	 	</div>
 	</div>
  <?php include_once('footer.php')?> 

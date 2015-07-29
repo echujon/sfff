@@ -21,7 +21,7 @@ h1, h2, h3, h4 {
   font-weight: 500;
 }
 
-.section a:hover, #footer a:hover {
+#content a:hover, #footer a:hover {
 	color: rgb(64, 90, 72) !important;
 	text-decoration: none;
 }
@@ -258,3 +258,38 @@ div.section {
 		display: none;
 	}
 }
+ 
+p {
+	margin-bottom: 20px;
+}
+
+.special {
+	color: #404076;
+	font-weight: 500;	
+} 
+p.bold {
+ 	font-weight: 800;
+ }
+ 
+.title{
+ 	margin-bottom: 40px;
+ }
+ 
+.underline {
+ 	border-bottom-color: #a5a5a5;
+ 	border-bottom: 2px solid;
+ 	padding: 0.0em 0.25em 0.25em 0.25em;
+ }
+
+@media (min-width: 992px){
+	.content-left {
+		padding-right: 20px;
+		border-right: 1px solid #404076;
+	}
+	
+	.content-right {
+		padding-left: 15px;
+		border-left: 1px solid #404076;
+	}
+}
+ 
