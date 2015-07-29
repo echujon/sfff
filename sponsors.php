@@ -7,7 +7,8 @@
  	<?php include_once('header.php')?>
  	<div class="container"> 
 		<div id="content">
-			<div class="section">
+			<div class="row">
+				<div class="col-md-8">
 				<h3>Sponsors</h3>
 				<p>
 					Sponsors are important, they help us run
@@ -23,6 +24,7 @@
 					If you would like to become a sponsor,
 					please <a href="/contact?subject=sponsor">contact us</a>.
 				</p>
+			</div>
 			</div>
 		</div>
  	</div>

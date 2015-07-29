@@ -144,8 +144,8 @@
             </div>
             <div>
             	<a href="/contact">
-					<img u="image" src="/img/chalk_art_2.jpg" />
-					<div u=caption t="*" class="captionOrange"  style="position:absolute; left:20px; top: 30px; width:400px; height:30px;"> 
+					<img u="image" src="/img/promo_pic.jpg" />
+					<div u=caption t="*" class="captionOrange"  style="position:absolute; left:310px; top: 150px; width:400px; height:30px;"> 
 						Questions? Ask us
 					</div>
                 </a>

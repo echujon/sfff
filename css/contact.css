@@ -9,6 +9,10 @@ stylesheet does not affect the other elements at all!
   margin-bottom: 10px;
 }
 
+form#contactus {
+    margin-bottom: 20px;
+}
+
 #contactus fieldset
 {
    width:320px;
@@ -130,7 +134,7 @@ input[type="text"], input[type="password"], textarea, select {
   color : #009;
   border : 1px solid rgb(76, 180, 76);
   -webkit-box-shadow: 0 0 0 1000px white inset;
-  background-color : rgb(76, 180, 76);
+  
 }
 
 #contactus
