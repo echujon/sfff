@@ -17,6 +17,13 @@
 						<h4>Award Ceremony</h4>
 						<p>The award ceremony will be held at the Joy Foundation 
 							on September 19th, 2015 at 7pm.</p>	
+						<h4>Location</h4>
+						<a href="https://maps.google.com/?q=38+East+400+
+						South%+Bountiful%2C+UT+-+Utah+84010+United+States" target="_blank">
+							<i class="fa fa-map-marker"></i> Joy Foundation </br>
+							38 East 400 South</br>
+							Bountiful, UT 84010</br> 
+							</a>
 				</div>
 				<div class="col-md-7">
 					<div class="content-right">
