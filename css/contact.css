@@ -55,6 +55,9 @@ border-radius: 10px;
    		width: 95% !important;	
    }
    
+   #contactus fieldset {
+   		width: none !important;
+   }
     #contactus select {
    		width: 100% !important;	
    }
