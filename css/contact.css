@@ -46,6 +46,24 @@ border-radius: 10px;
 
 }
 
+@media (max-width: 480px) {
+   #contactus input[type="text"], #contactus textarea {
+   	 width:85% !important;
+   }
+   
+   #contactus .custom-select{
+   		width: 95% !important;	
+   }
+   
+    #contactus select {
+   		width: 100% !important;	
+   }
+   
+}
+label {
+    color:black;
+}
+
 #contactus input[type="text"]
 {
   height:35px;
