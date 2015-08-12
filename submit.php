@@ -25,22 +25,23 @@
 					information about the events and awards.</p>
 				</div>
 				<div class="col-md-5">
-				<h4 class="underline">2 ways to submit your film</h4>
-				<h4>DVD Copy</h4>
-				<p> Print out this <a href="/salt_flats_film_festival_submission_form.pdf" target="_blank">submission form</a>
-				, agree to the terms and conditions, and sign it.</p>
-				<p>
-				<p>Submit your DVD, submission form, and your entry fee of
-				$15.00
-				to:
-				</p>
-				<p>	
-					Joy Foundation </br>
-					38 East 400 South</br>
-					Bountiful, UT 84010</br> 
-				</p>
-				<h4>FilmFreeway</h4>
-				You can also submit you film online on our <a href="https://filmfreeway.com/festival/SaltFlatsFilmFestival">FilmFreeway page</a>
+					<h4 class="underline">2 ways to submit your film</h4>
+					<h4>DVD Copy</h4>
+					<p> Print out this <a href="/salt_flats_film_festival_submission_form.pdf" target="_blank">submission form</a>
+					, agree to the terms and conditions, and sign it.</p>
+					<p>
+					<p>Submit your DVD, submission form, and your entry fee of
+					$15.00
+					to:
+					</p>
+					<p>	
+						Joy Foundation </br>
+						38 East 400 South</br>
+						Bountiful, UT 84010</br> 
+					</p>
+					<h4>FilmFreeway</h4>
+					You can also submit you film online on our <a href="https://filmfreeway.com/festival/SaltFlatsFilmFestival">FilmFreeway page</a>
+				</div>
 			</div>
 		</div>
  	</div>
