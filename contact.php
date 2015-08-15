@@ -3,6 +3,14 @@
   <title>Contact</title>
   <?php include_once('links.php')?> 
   <?php include_once('form_links.php')?>
+  <!--[if IE]>
+	<style>
+		#contactus .custom-select:after{
+		{
+			display: none;
+		}
+	</style>
+<![endif]-->
  </head>
  <body>
  	<?php include_once('header.php')?> 
