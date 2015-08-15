@@ -15,7 +15,7 @@ h1, h2, h3, h4 {
 	color: #3F3F76 !important;
 }
 
-#content a, a:visited {
+#content a, #content a:visited, #footer a, #footer a:visited {
   text-decoration: none;
   color: rgb(76, 180, 76);
   font-weight: 500;
@@ -216,6 +216,8 @@ h1, h2, h3, h4 {
 	color: #3B3B6F;
 }
 
+#footer a {
+}
 .social-media .fa:hover{
 	opacity: 1;
 }
