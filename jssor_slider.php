@@ -127,7 +127,7 @@
         <!-- Slides Container -->
         <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 800px; height: 400px; overflow: hidden;">
              <div>
-             	<a href="/contact">
+             	<a href="/about">
 					<img u="image" src="/img/promo_pic.jpg" />
 					<div u=caption t="*" class="captionOrange"  style="position:absolute; left:310px; top: 150px; width:400px; height:30px;"> 
 						What is the Salt Flats Film Festival?
@@ -143,7 +143,7 @@
                 </a>
             </div>
             <div>
-                <a href="/about">
+                <a href="/contact">
 					<img u="image" src="/img/about.png" />
 					<div u=caption t="*" class="captionOrange"  style="position:absolute; left:350px; top: 30px; width:400px; height:30px;"> 
 						Questions? Ask us
