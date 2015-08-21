@@ -13,7 +13,9 @@
 				<p>
 					Sponsors are important, they help us run
 					our film festival and help the Joy Foundation fulfill its mission.
-					You can read more about the Joy Foundation's mission <a href="/about">here</a>.
+					The Joy Foundation is a non-profit organization. Donations made
+					to the Joy Foundation are tax-deductible. 
+					You can learn more about the Joy Foundation <a href="/about">here</a>.
 				</p>
 				<p>
 					In gratitude for your sponsorship we will advertise your business on our festival 
