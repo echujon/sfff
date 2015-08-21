@@ -21,8 +21,9 @@
 					
 						</ul>
 					<p class="bold">Submissions are due by September 15th, 2015.</p>
-					<p> Check out the <a href="/events-and-awards">events and awards page</a> for
-					information about the events and awards.</p>
+					<p class="bold">Want to know more about event dates and prizes?</p>
+					<p>Check out the <a href="/events-and-awards">events and awards page</a> for
+					information</p>
 				</div>
 				<div class="col-md-5">
 					<h4 class="underline">2 ways to submit your film</h4>
