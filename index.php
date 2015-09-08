@@ -15,7 +15,7 @@
 							<div class="center-slider">
 								<?php include_once('jssor_slider.php')?>
 							</div>
-							<h3>presented by</h3>
+							<h3>Presented by</h3>
 							<a href="http://www.kidsfindjoy.org">
 							<img class="img-responsive center center-block" src= "/img/joy-logo.jpg">
 							</a>

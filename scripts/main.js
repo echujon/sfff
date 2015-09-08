@@ -5,14 +5,14 @@ $(function() {
 		{
 			var a =  marginTop +
 			 parseInt($('#nav').height())-5;
-			$('#content').css('margin-top', a);
-			$('#nav').slideDown(250);
+			
+			$('#nav').slideDown();
 			
 		}
 		else
 		{
-			$('#nav').slideUp(250, function() {
-				$('#content').css('margin-top', marginTop);
+			$('#nav').slideUp(function() {
+				//$('#content').css('margin-top', marginTop);
 			}); 
 		}
 		$('.menu-button').toggleClass('display');
