@@ -26,7 +26,7 @@
 						</a>
 					</div>
 				</div>
-				<div class="col-md-7">
+				<div class="col-md-5">
 					<h4>Categories</h4>
 					<p>Regular: all films are considered under the regular 
 					category</p>

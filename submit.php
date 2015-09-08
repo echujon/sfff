@@ -22,7 +22,7 @@
 						</ul>
 					<p class="bold">Submissions are due by September 15th, 2015.</p>
 					<p class="bold">Want to know more about event dates and prizes?</p>
-					<p>Check out the <a href="/events-and-awards">events and awards page</a> for
+					<p>Check out the <a href="/events-and-awards">Events and Awards page</a> for
 					information</p>
 				</div>
 				<div class="col-md-5">
@@ -41,7 +41,9 @@
 						Bountiful, UT 84010</br> 
 					</p>
 					<h4>FilmFreeway</h4>
-					You can also submit you film online on our <a href="https://filmfreeway.com/festival/SaltFlatsFilmFestival">FilmFreeway page</a>
+					<p>You can also submit you film online on our FilmFreeway Page, click on the image below</p>
+					<div><a href="https://filmfreeway.com/festival/SaltFlatsFilmFestival"> 
+					<img src="/img/submit_btn-black"</img></a></div>
 				</div>
 			</div>
 		</div>
