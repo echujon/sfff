@@ -43,7 +43,7 @@
 					<h4>FilmFreeway</h4>
 					<p>You can also submit you film online on our FilmFreeway Page, click on the image below</p>
 					<div><a href="https://filmfreeway.com/festival/SaltFlatsFilmFestival"> 
-					<img src="/img/submit_btn-black"</img></a></div>
+					<img src="/img/submit_btn-black.png"</img></a></div>
 				</div>
 			</div>
 		</div>
