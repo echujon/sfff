@@ -266,7 +266,9 @@ p {
 p.bold {
  	font-weight: 800;
  }
- 
+p.sponsors {
+	padding-bottom: 5px;
+}
 .title{
  	margin-bottom: 40px;
  }

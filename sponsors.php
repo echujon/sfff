@@ -29,11 +29,16 @@
 				</div>
 				<div class="col-md-11">
 					<div class="text-center"><h3>Our 2015 Sponsors:</h3></div>
-					<p class="bold text-center">We would like to acknowledge and give gratitude
+					<p class="sponsors bold text-center">We would like to acknowledge and give gratitude
 					to the following sponsors:</p	>
 				<div class="col-md-6">
 					<a href="https://filmfreeway.com">
 						<img class="center-block img-responsive" src="/img/sponsors/filmfreeway-logo.png"/>
+					</a>
+				</div>
+				<div class="col-md-6">
+					<a href="http://sipnswirlutah.com/">
+						<img class="center-block img-responsive" src="/img/sponsors/sip-n-swirl.jpg"/>
 					</a>
 				</div>
 			</div>
