@@ -32,6 +32,11 @@
 					<p class="sponsors bold text-center">We would like to acknowledge and give gratitude
 					to the following sponsors:</p>
 				<div class="col-md-6">
+					<a href="https://suralink.com">
+						<img class="center-block img-responsive" src="/img/sponsors/suralink-logo.png"/>
+					</a>
+				</div>
+				<div class="col-md-6">
 					<a href="http://sipnswirlutah.com/">
 						<img class="center-block img-responsive" src="/img/sponsors/sip-n-swirl.jpg"/>
 					</a>
