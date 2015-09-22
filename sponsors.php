@@ -8,8 +8,8 @@
  	<div class="container"> 
 		<div id="content">
 			<div class="row">
-				<div class="col-md-8">
-					<h3>Sponsors</h3>
+				<h3 class="text-center">Sponsors</h3>
+				<div class="col-md-6 text-centered">
 					<p>
 						Sponsors are important, they help us run
 						our film festival and fulfill the mission of the Joy Foundation.
@@ -42,10 +42,16 @@
 					</a>
 				</div>
 				<div class="col-md-6">
+					<a href="http//storyitup.com">
+						<img class="center-block img-responsive" src="/img/sponsors/siu_logo.png"/>
+					</a>
+				</div>
+				<div class="col-md-6">
 					<a href="https://filmfreeway.com">
 						<img class="center-block img-responsive" src="/img/sponsors/filmfreeway-logo.png"/>
 					</a>
 				</div>
+				
 			</div>
 		</div>
  	</div>

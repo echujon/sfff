@@ -1,15 +1,18 @@
 <?php
 	$directory = ltrim($_SERVER['PHP_SELF'],'/');
 	$directory = rtrim($directory,'.php');
-	$directories = array("index","about","contact","sponsors", "submit", "events-and-awards" ); // set home as 'index', but can be changed based of the home uri
+	$directories = array("index","about","contact","sponsors", "submit"); // set home as 'index', but can be changed based of the home uri
 	foreach ($directories as $folder){
 		$active[$folder] = ($directory == $folder)? 'class="active"' : '';
 		
 	}
 	$more = '';
-	if ($directory ==='events-and-awards' || $directory === 'people')
+	if (!in_array($directory, $directories))
 	{
 		$more = 'active';
+		$active[] = $directory;
+		$active[$directory] = 'class="active-section"';
+		
 	}
 	
 	if ($active['index'] != '')
@@ -74,6 +77,7 @@
 				  <a  class="<?php echo "${more}" ?> dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More<span class="caret"></span></a>
 				<ul class="dropdown-menu">
 					<li><a <?php echo "${active['events-and-awards']}" ?>href="/events-and-awards">Events And Awards</a></li>
+					<li><a <?php echo "${active['winning-films']}" ?>href="/winning-films">2015 Winning Films</a></li>
 				</ul>
             </li>
 		  </ul>

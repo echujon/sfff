@@ -38,6 +38,11 @@
 		border-bottom-color: #a5a5a5;
 }
 
+.navbar-nav li a.active-section {
+		opacity: 1; 
+		color: rgb(243, 247, 243);
+}
+
 .navbar-nav li>a, .navbar-nav li>a:hover {
 	background-color: #404076;
 }
@@ -111,6 +116,10 @@
 
 .active {
 	color: rgb(243, 247, 243) !important;
+}
+
+.active-section {
+	color: #FFF !important;
 }
 .dropdown-menu{
 	background-color: #404076;
