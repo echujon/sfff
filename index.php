@@ -11,7 +11,7 @@
 			<div id="content">
 				 <div class="row">	
 						<div id="main-page">
-							<a href="winning-films.php">
+							<a href="/winning-films">
 							<div class="banner">Check out the 2015 Salt Flats Film winners!!!</div>
 							</a>
 							<h2>SALT FLATS FILM FESTIVAL</h2>
