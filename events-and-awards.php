@@ -7,10 +7,12 @@
   <?php include_once('header.php')?> 
   <div class="container">
 	 <div id="content">
+	 		<a href="/winning-films">
+				<div class="banner text-center">Check out the 2015 Salt Flats Film winners!!!</div>
+			</a>
 	 		<h3 class="text-center title">Events & Awards</h3>
 			<div class="row">
 				<div class="col-md-5">
-					<div class="content-left">
 						<h4>Screening</h4>
 						<p>The screening of films will be held at the Joy Foundation 
 						on September 18th, 2015 at 7 pm.</p>
@@ -24,8 +26,8 @@
 							38 East 400 South</br>
 							Bountiful, UT 84010</br> 
 						</a>
-					</div>
 				</div>
+				<div class="divider"></div>
 				<div class="col-md-5">
 					<h4>Categories</h4>
 					<p>Regular: all films are considered under the regular 
@@ -33,12 +35,12 @@
 					<p>Youth: films done by filmmakers 18 yrs and younger</p>
 					<h4>Awards</h4>
 					<p>* Salt Prize - Best film decided by a panel of jurists.</p>
-					<p>* Junior Salt Prize - Best film by a person 18 or younger, 
+					<p>* Junior Salt Prize - Best film by a youth 18 or younger, 
 					decided by a panel of jurists.</p>
 					<p>* Audience Choice Award - 
 					The Audience choice for the best film.</p>
-					<p>* Young Filmmaker Award - The Audience choice for best filmmaker 
-					under the age of 18.</p>
+					<p>* Junior Audience Choice Award- The Audience choice for best filmmaker 
+					18 or younger.</p>
 				</div>
 	 		</div>
 	 	</div>
