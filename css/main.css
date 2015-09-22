@@ -1,10 +1,11 @@
 *, *:before, *:after {
 	box-sizing: border-box;
 }
+
 hmtl, body, div, span {
 	margin: 0;
 	padding: 0;
-	border; 0;
+	border: 0;
 }
 body {
 	background-color:#dddddd !important;
@@ -279,9 +280,28 @@ p.sponsors {
  	padding: 0.0em 0.25em 0.25em 0.25em;
  }
 
+.hide {
+	display: none;
+}
+
+.banner {
+	background-color: #4CB44C;
+	color: #FFF;
+	font-size: 20px;
+	font-weight: 300;
+}
+
+.banner:hover {
+	background-color: rgb(64, 90, 72) !important;
+}
 @media (min-width: 992px){
 	.content-left {
 		padding-right: 20px;
+		border-right: 1px solid #404076;
+	}
+	
+	.divider {
+		padding-right: 400px;
 		border-right: 1px solid #404076;
 	}
 	

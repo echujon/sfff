@@ -11,6 +11,9 @@
 			<div id="content">
 				 <div class="row">	
 						<div id="main-page">
+							<a href="winning-films.php">
+							<div class="banner">Check out the 2015 Salt Flats Film winners!!!</div>
+							</a>
 							<h2>SALT FLATS FILM FESTIVAL</h2>
 							<div class="center-slider">
 								<?php include_once('jssor_slider.php')?>
