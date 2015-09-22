@@ -7,7 +7,7 @@
  	<?php include_once('header.php')?> 
  	<div class="container">
 		<div id="content">
-		<a href="winning-films.php">
+		<a href="/winning-films">
 			<div class="banner text-center">Check out the 2015 Salt Flats Film winners!!!</div>
 		</a>
 			<h3 class="text-center">Submitting Your Film</h3>
