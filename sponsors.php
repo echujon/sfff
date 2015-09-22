@@ -42,7 +42,7 @@
 					</a>
 				</div>
 				<div class="col-md-6">
-					<a href="http//storyitup.com">
+					<a href="http://storyitup.com">
 						<img class="center-block img-responsive" src="/img/sponsors/siu_logo.png"/>
 					</a>
 				</div>

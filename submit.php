@@ -7,12 +7,12 @@
  	<?php include_once('header.php')?> 
  	<div class="container">
 		<div id="content">
-		<a href="/winning-films">
-			<div class="banner text-center">Check out the 2015 Salt Flats Film winners!!!</div>
-		</a>
+			<a href="/winning-films">
+				<div class="banner text-center">Check out the 2015 Salt Flats Film winners!!!</div>
+			</a>
 			<h3 class="text-center">Submitting Your Film</h3>
 			<h3 class="text-center">Submissions for 2015 are now closed.</h3>
-			<h4 class="text-center">Thanks t all those that submitted!!!</h4>
+			<h4 class="text-center">Thanks to all those that submitted!!!</h4>
 			<img src="/img/sfff_filming.jpg" class=" title img-responsive center-block" ></img>
 			<div class="row hide">
 				<div class="col-md-5">
