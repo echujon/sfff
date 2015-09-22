@@ -12,7 +12,7 @@
 		</a>
 			<h3 class="text-center">Submitting Your Film</h3>
 			<h3 class="text-center">Submissions for 2015 are now closed.</h3>
-			<h4 class="text-center">Thanks to all that submitted!!!</h4>
+			<h4 class="text-center">Thanks t all those that submitted!!!</h4>
 			<img src="/img/sfff_filming.jpg" class=" title img-responsive center-block" ></img>
 			<div class="row hide">
 				<div class="col-md-5">
