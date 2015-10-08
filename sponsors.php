@@ -8,25 +8,6 @@
  	<div class="container"> 
 		<div id="content">
 			<div class="row">
-				<h3 class="text-center">Sponsors</h3>
-				<div class="col-md-6 text-centered">
-					<p>
-						Sponsors are important, they help us run
-						our film festival and fulfill the mission of the Joy Foundation.
-						The Joy Foundation is a non-profit organization. Donations made
-						to the Joy Foundation are tax-deductible. 
-						You can learn more about the Joy Foundation <a href="/about">here</a>.
-					</p>
-					<p>
-						In gratitude for your sponsorship we will advertise your business on our festival 
-						programs and thank you personally during the commencement of the award ceremony.
-						You will also receive a DVD copy of all the winning films.
-					</p>
-					<p>
-						If you would like to become a sponsor,
-						please <a href="/contact?subject=sponsor">contact us</a>.
-					</p>
-				</div>
 				<div class="col-md-11">
 					<div class="text-center"><h3>Our 2015 Sponsors:</h3></div>
 					<p class="sponsors bold text-center">We would like to acknowledge and give gratitude
@@ -41,17 +22,47 @@
 						<img class="center-block img-responsive" src="/img/sponsors/sip-n-swirl.jpg"/>
 					</a>
 				</div>
+				<div class="col-md-6 padtop">
+					<a href="http://www.calsdeli.com/">
+						<img class="center-block img-responsive" src="/img/sponsors/calsdeli.png"/>
+					</a>
+				</div>
 				<div class="col-md-6">
 					<a href="http://storyitup.com">
 						<img class="center-block img-responsive" src="/img/sponsors/siu_logo.png"/>
 					</a>
 				</div>
 				<div class="col-md-6">
-					<a href="https://filmfreeway.com">
+						<img class="center-block img-responsive" src="/img/sponsors/aldave_and_associates.png"/>
+				</div>
+				<div class="col-md-6">
+					<a href="https://www.filmfreeway.com/">
 						<img class="center-block img-responsive" src="/img/sponsors/filmfreeway-logo.png"/>
 					</a>
 				</div>
-				
+			</div>
+		</div>
+		<div class="row row-centered">
+			<div class="col-md-6 col-centered">
+				<div class="become-sponsor text-center">
+					<a><i class="fa fa-plus-square-o"></i></a>
+						Becoming a Sponsor
+				</div>
+				<div class="collapse" id="sponsor-info">
+					<div class="sponsor-info-stuff">
+						<p>
+							Sponsors are important, they help us run
+							our film festival and fulfill the mission of the Joy Foundation.
+							The Joy Foundation is a non-profit organization. Donations made
+							to the Joy Foundation are tax-deductible. 
+							You can learn more about the Joy Foundation <a href="/about">here</a>.
+						</p>
+						<p>
+							If you would like to become a sponsor,
+							please <a href="/contact?subject=sponsor">contact us</a>.
+						</p>
+					</div>
+				</div>
 			</div>
 		</div>
  	</div>
