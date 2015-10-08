@@ -15,7 +15,9 @@ h1, h2, h3, h4 {
 	font-weight: 500;
 	color: #3F3F76 !important;
 }
-
+.padtop {
+	margin-top: 10px;
+}
 #content a, #content a:visited, #footer a, #footer a:visited {
   text-decoration: none;
   color: rgb(76, 180, 76);
@@ -73,6 +75,27 @@ h1, h2, h3, h4 {
 	margin: auto auto;
 }
 
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+.become-sponsor {
+	margin-top: 20px;
+	font-size: 20px
+}
+
+.sponsor-stuff {
+	margin-top: 20px;
+	font-size: 20px
+}
 .center-slider {
 	width: 80%;
 	margin: 0 auto;
