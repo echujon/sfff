@@ -3,6 +3,7 @@
  <head>
  <?php include_once('links.php')?> 
  <?php include_once('jssor_links.php')?>
+ <?php include_once("tracking.php") ?>
   <title>Salt Flats Film Festival</title>
  </head>
  <body>
