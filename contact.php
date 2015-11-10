@@ -3,6 +3,7 @@
   <title>Contact</title>
   <?php include_once('links.php')?> 
   <?php include_once('form_links.php')?>
+  <?php include_once("tracking.php") ?>
   <!--[if IE]>
 	<style>
 		#contactus .custom-select:after{

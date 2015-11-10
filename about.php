@@ -1,6 +1,7 @@
 <html>
  <head>
- <?php include_once('links.php')?> 
+ <?php include_once('links.php')?>
+ <?php include_once("tracking.php") ?> 
   <title>About</title>
  </head>
  <body>
@@ -19,7 +20,7 @@
 					show us their skills on film. We have a special category and
 					prizes for our talented young artists.</p>
 					<p>For more information about the schedule and prizes at the Salt Flats Festival go to our 
-					<a href="/events-and-awards">events and awards
+					<a href="/events-and-awards">Events and Awards
 					page</a>.</p>
 					</div>
 				</div>

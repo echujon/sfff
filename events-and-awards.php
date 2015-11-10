@@ -1,6 +1,7 @@
 <html>
  <head>
  <?php include_once('links.php')?> 
+ <?php include_once("tracking.php") ?>
   <title>Events & Awards</title>
  </head>
  <body>
