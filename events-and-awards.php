@@ -15,18 +15,19 @@
 			<div class="row">
 				<div class="col-md-5">
 						<h4>Screening</h4>
-						<p>The screening of films will be held at the Joy Foundation 
-						on September 18th, 2015 at 7 pm.</p>
+						<p>To be Determined</p>
 						<h4>Award Ceremony</h4>
-						<p>The award ceremony will be held at the Joy Foundation 
-							on September 19th, 2015 at 7pm.</p>	
+						<!--<p>The award ceremony will be held at the Joy Foundation 
+							on September 22nd, 2016 at 7pm.</p> -->
+							<p>To Be Determined</p>
 						<h4>Location</h4>
-						<a href="https://maps.google.com/?q=38+East+400+
+						<p>To Be Determined</p>
+						<!--<a href="https://maps.google.com/?q=38+East+400+
 						South%+Bountiful%2C+UT+-+Utah+84010+United+States" target="_blank">
 							<i class="fa fa-map-marker"></i> Joy Foundation </br>
 							38 East 400 South</br>
 							Bountiful, UT 84010</br> 
-						</a>
+						</a> !-->
 				</div>
 				<div class="divider"></div>
 				<div class="col-md-5">

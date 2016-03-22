@@ -11,10 +11,8 @@
 				<div class="banner text-center">Check out the 2015 Salt Flats Film winners!!!</div>
 			</a>
 			<h3 class="text-center">Submitting Your Film</h3>
-			<h3 class="text-center">Submissions for 2015 are now closed.</h3>
-			<h4 class="text-center">Thanks to all those that submitted!!!</h4>
 			<img src="/img/sfff_filming.jpg" class=" title img-responsive center-block" ></img>
-			<div class="row hide">
+			<div class="row">
 				<div class="col-md-5">
 					<h4 class="underline">So you want to submit a film?</h4>
 						Great, show us what you've got!!!<br> 
@@ -25,7 +23,7 @@
 							<li>$15.00 entry fee</li>
 					
 						</ul>
-					<p class="bold">Submissions are due by September 15th, 2015.</p>
+					<p class="bold">Submissions are due by August 22nd, 2016.</p>
 					<p class="bold">Want to know more about event dates and prizes?</p>
 					<p>Check out the <a href="/events-and-awards">Events and Awards page</a> for
 					information</p>
