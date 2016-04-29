@@ -40,7 +40,7 @@
 					</p>
 					<p>	
 						Joy Foundation </br>
-						38 East 400 South</br>
+						PO Box 11</br>
 						Bountiful, UT 84010</br> 
 					</p>
 					<h4>FilmFreeway</h4>
