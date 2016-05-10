@@ -82,6 +82,10 @@
     padding: 9px 9px 0px;
 	}
 	
+	.navbar-nav .open .dropdown-menu>li>a {
+		padding: 1px 15px 5px 55px !important;
+	}
+	
 }
 	
 @media (min-width: 768px){
@@ -130,9 +134,7 @@
 .dropdown-menu{
 	background-color: #404076;
 }
-.navbar-nav .open .dropdown-menu>li>a {
-	padding: 1px 15px 5px 55px !important;
-}
+
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, 
 .navbar-inverse .navbar-nav>.open>a:hover {
     color: #fff;
