@@ -1,7 +1,12 @@
 <IfModule mod_rewrite.c>
 	RewriteEngine On
+	#enforce non-trailing slashes
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule ^(.*)/$ /$1 [L,R=301]
 	Options -MultiViews
 	RewriteCond %{REQUEST_FILENAME} !-f
 	RewriteRule ^([^\.]+)$ $1.php [NC,L]
+	#directories are forbidden to enter
+	RewriteRule ^(include/|domain) - [F,L,NC]
 	ErrorDocument 404 /error.php
 </IfModule>
