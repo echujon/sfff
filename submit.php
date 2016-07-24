@@ -18,7 +18,7 @@
 						Great, show us what you've got!!!<br> 
 						First, make sure you meet these requirements:
 						<ul>
-							<li>Film must be 7 minutes or less</li>
+							<li>Film must be 8 minutes or less</li>
 							<li>Film must be family-friendly</li>
 							<li>$15.00 entry fee</li>
 					
