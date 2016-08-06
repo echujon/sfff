@@ -8,26 +8,32 @@
   <?php include_once('header.php')?> 
   <div class="container">
 	 <div id="content">
-	 		<a href="/winning-films">
-				<div class="banner text-center">Check out the 2015 Salt Flats Film winners!!!</div>
+	 		<a href="/volunteers">
+				<div class="banner text-center">Become A Volunteer!!!</div>
 			</a>
 	 		<h3 class="text-center title">Events & Awards</h3>
 			<div class="row">
 				<div class="col-md-5">
 						<h4>Screening</h4>
-						<p>To be Determined</p>
-						<h4>Award Ceremony</h4>
-						<!--<p>The award ceremony will be held at the Joy Foundation 
-							on September 22nd, 2016 at 7pm.</p> -->
-							<p>To Be Determined</p>
+						<p>The Opening and the screening of the 2015 film winners will be on September 9th
+						at <a href="http://cottontreeinns.com/north-salt-lake/index.html">Cotton Tree Inn - North Salt Lake</a></p>
+						<p>There will be a screening on September 10th at the
+						<a href="http://www.wighthousereception.com">Wight House Reception Center</a></p>
 						<h4>Location</h4>
-						<p>To Be Determined</p>
-						<!--<a href="https://maps.google.com/?q=38+East+400+
-						South%+Bountiful%2C+UT+-+Utah+84010+United+States" target="_blank">
-							<i class="fa fa-map-marker"></i> Joy Foundation </br>
-							38 East 400 South</br>
+						<a href="https://www.google.com/maps/place/Wight+House+Reception+Center/@40.8902891,-111.8821707,
+						17z/data=!4m5!3m4!1s0x8752f78aa9b89b47:0x38f776b60824e711!8m2!3d40.890181!4d-111.881205" target="_blank">
+							<i class="fa fa-map-marker"></i> Wight House Reception Center</br>
+							35 N Main St</br>
 							Bountiful, UT 84010</br> 
-						</a> !-->
+						</a>
+						</br>
+						<a href="https://www.google.com/maps/place/1030+N+400+E,
+						+North+Salt+Lake,+UT+84054/@40.8600451,-111.903015,
+						17z/data=!3m1!4b1!4m5!3m4!1s0x8752f7a6f969f31f:0x78aa53f7ff79a265!8m2!3d40.8600451!4d-111.9008263">
+							<i class="fa fa-map-marker"></i> Cotton Tree Inn - North Salt Lake</br>
+							1030 North 400 East</br>
+							North Salt Lake, Utah 84054</br>
+						</a>
 				</div>
 				<div class="divider"></div>
 				<div class="col-md-5">
