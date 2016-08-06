@@ -8,9 +8,6 @@
   <?php include_once('header.php')?> 
   <div class="container">
 	 <div id="content">
-	 		<a href="/volunteers">
-				<div class="banner text-center">Become A Volunteer!!!</div>
-			</a>
 	 		<h3 class="text-center title">Events & Awards</h3>
 			<div class="row">
 				<div class="col-md-5">
