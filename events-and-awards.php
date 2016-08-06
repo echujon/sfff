@@ -11,11 +11,11 @@
 	 		<h3 class="text-center title">Events & Awards</h3>
 			<div class="row">
 				<div class="col-md-5">
-						<h4>Screening</h4>
+						<h4>Screenings</h4>
 						<p>The film festival Opening and the screening of the 2015 film winners will be on September 9th 
-						at <a href="http://cottontreeinns.com/north-salt-lake/index.html">Cotton Tree Inn - North Salt Lake</a> @ 7pm</p>
+						at <a href="http://cottontreeinns.com/north-salt-lake/index.html">Cotton Tree Inn - North Salt Lake</a> @ 7pm.</p>
 						<p>There will be a screening on September 10th at the
-						<a href="http://www.wighthousereception.com">Wight House Reception Center</a> @7pm</p>
+						<a href="http://www.wighthousereception.com">Wight House Reception Center</a> @7pm.</p>
 						<h4>Locations</h4>
 						<a href="https://www.google.com/maps/place/1030+N+400+E,
 						+North+Salt+Lake,+UT+84054/@40.8600451,-111.903015,
