@@ -14,7 +14,7 @@
 						<h4>Screenings</h4>
 						<p>The film festival Opening and the screening of the 2015 film winners will be on September 9th 
 						at <a href="http://cottontreeinns.com/north-salt-lake/index.html">Cotton Tree Inn - North Salt Lake</a> @ 7pm.</p>
-						<p>There will be a screening on September 10th at the
+						<p>This year's film entries wil be shown on September 10th at the
 						<a href="http://www.wighthousereception.com">Wight House Reception Center</a> @7pm.</p>
 						<h4>Locations</h4>
 						<a href="https://www.google.com/maps/place/1030+N+400+E,
