@@ -9,33 +9,35 @@
 		<div id="content">
 			<div class="row">
 				<div class="col-md-11">
-					<div class="text-center"><h3>Our 2016 Sponsors:</h3></div>
+					<div class="text-center"><h3>Our 2015 Sponsors:</h3></div>
 					<p class="sponsors bold text-center">We would like to acknowledge and give gratitude
 					to the following sponsors:</p>
-				<div class="col-md-6">
-					<a href="http://www.tophatvideo.com/">
-						<img class="center-block img-responsive" src="/img/sponsors/THV.png"/>
-					</a>
-				</div>
 				<div class="col-md-6">
 					<a href="https://suralink.com">
 						<img class="center-block img-responsive" src="/img/sponsors/suralink-logo.png"/>
 					</a>
 				</div>
 				<div class="col-md-6">
-					<a href="http://www.wighthousereception.com/">
-						<img class="center-block img-responsive" src="/img/sponsors/wightHouse.png"/>
+					<a href="http://sipnswirlutah.com/">
+						<img class="center-block img-responsive" src="/img/sponsors/sip-n-swirl.jpg"/>
 					</a>
 				</div>
-				
 				<div class="col-md-6 padtop">
+					<a href="http://www.calsdeli.com/">
+						<img class="center-block img-responsive" src="/img/sponsors/calsdeli.png"/>
+					</a>
+				</div>
+				<div class="col-md-6">
 					<a href="http://storyitup.com">
 						<img class="center-block img-responsive" src="/img/sponsors/siu_logo.png"/>
 					</a>
 				</div>
-					<div class="col-md-6 padtop">
-					<a href="http://cottontreeinns.com/north-salt-lake/index.html.com">
-						<img class="center-block img-responsive" src="/img/sponsors/cottontree-inn-logo.jpg"/>
+				<div class="col-md-6">
+						<img class="center-block img-responsive" src="/img/sponsors/aldave_and_associates.png"/>
+				</div>
+				<div class="col-md-6">
+					<a href="https://www.filmfreeway.com/">
+						<img class="center-block img-responsive" src="/img/sponsors/filmfreeway-logo.png"/>
 					</a>
 				</div>
 			</div>
