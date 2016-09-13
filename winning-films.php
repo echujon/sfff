@@ -11,21 +11,21 @@
 				<h3 class="text-center title-pad" >2016 Salt Flats Film Festival Winners</h3>
 				<div class=" winners col-md-4 col-md-offset-3">
 					<h4>Junior Salt Prize</h4> 
-					<span><i>American S(e)oul</i><br/>by Jeeyoon Lee</span>
+					<span class="film-title">American S(e)oul</span><br/>by Jeeyoon Lee
 					<img class="img-responsive img-pad" src="/img/films/2016/american_seoul.jpg"/>
 					<h4>Salt Prize</h4> 
-					<i>The Original</i><br/>by Arthur Veenema
+					<span class="film-title">The Original</span><br/>by Arthur Veenema
 					<img class="img-responsive img-pad" src="/img/films/2016/the_original.jpg"/>
 					<h4>Honorable Mention</h4> 
-					<i>One Defining Dot</i><br/>by Cameron George
+					<span class="film-title">One Defining Dot</span><br/>by Cameron George
 					<img class="img-responsive img-pad" src="/img/films/2016/one_defining_dot.jpg"/>
 				</div>
 				<div class=" winners col-md-4">
 				<h4>Junior Audience Award</h4> 
-				<i>Cool Jacket Dude: Jacket Before Time</i><br/>by Humpries & Hinckley Family				
+				<span class="film-title">Cool Jacket Dude: Jacket Before Time</span><br/>by Humpries & Hinckley Family				
 				<img class="img-responsive img-pad" src="/img/films/2016/jacket_before_time.jpg"/>
 				<h4>Audience Award</h4> 
-				<i>Mine</i><br/>by Nick Dixon
+				<span class="film-title">Mine</span><br/>by Nick Dixon
 				<img class="img-responsive img-pad" src="/img/films/2016/mine.jpg"/>
 				</div>
 				<div class=" winners col-md-4 col-md-offset4">
