@@ -8,6 +8,9 @@
   <?php include_once('header.php')?> 
   <div class="container">
 	 <div id="content">
+	 		<a href="/winning-films">
+				<div class="banner text-center">Check out the 2016 Salt Flats Film winners!!!</div>
+			</a>
 			<div class="row">
 				<div class="col-md-5">
 					<div class="content-left">
@@ -25,7 +28,7 @@
 					</div>
 				</div>
 				<div class="col-md-7">
-					<h3>The Joy Foundation</h3>
+					<h3 id="joy_foundation">The Joy Foundation</h3>
 					<p>The Joy Foundation is presenting the Salt Flats Film Festival.
 					Funding that comes from the film festival will be used to further
 					the misson of the Joy Foundation.</p>

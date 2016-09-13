@@ -1,22 +1,34 @@
 <html>
  <head>
  <?php include_once('links.php')?> 
-  <title>2015 Winners</title>
+  <title>2016 Winners</title>
  </head>
  <body>
   <?php include_once('header.php')?> 
   <div class="container">
 	 <div id="content">
-			<div class="row">
-				<h3 class="text-center" >2015 Winners</h3>
-				<div class=" winners col-md-11">
-				<h4>Youth</h4>
-				<p><b>Junior Salt Prize</b>  - <i>Echoes</i> by Stefan Pham</p>
-				<p><b>Junior Audience Award</b> - <i>Cool Jacket Dude</i> by Humphries & Hinckley Family</p>
-				<h4>Regular</h4>
-				<p><b>Salt Prize</b> - <i>Autumn Leaves</i> by Saman Hosseinpuor</p>
-				<p><b>Audience Award</b>- <i>Far Away</i> by Bryan Hansen</p>
-				<p><b>Honorable Mention</b> - <i>Beautiful</i> by Fernando Lara</p>
+			<div class="row ">
+				<h3 class="text-center title-pad" >2016 Salt Flats Film Festival Winners</h3>
+				<div class=" winners col-md-4 col-md-offset-3">
+					<h4>Junior Salt Prize</h4> 
+					<span><i>American S(e)oul</i><br/>by Jeeyoon Lee</span>
+					<img class="img-responsive img-pad" src="/img/films/2016/american_seoul.jpg"/>
+					<h4>Salt Prize</h4> 
+					<i>The Original</i><br/>by Arthur Veenema
+					<img class="img-responsive img-pad" src="/img/films/2016/the_original.jpg"/>
+					<h4>Honorable Mention</h4> 
+					<i>One Defining Dot</i><br/>by Cameron George
+					<img class="img-responsive img-pad" src="/img/films/2016/one_defining_dot.jpg"/>
+				</div>
+				<div class=" winners col-md-4">
+				<h4>Junior Audience Award</h4> 
+				<i>Cool Jacket Dude: Jacket Before Time</i><br/>by Humpries & Hinckley Family				
+				<img class="img-responsive img-pad" src="/img/films/2016/jacket_before_time.jpg"/>
+				<h4>Audience Award</h4> 
+				<i>Mine</i><br/>by Nick Dixon
+				<img class="img-responsive img-pad" src="/img/films/2016/mine.jpg"/>
+				</div>
+				<div class=" winners col-md-4 col-md-offset4">
 				</div>
 	 		</div>
 	 	</div>

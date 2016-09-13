@@ -11,7 +11,7 @@
 	 	<div class="container">
 			<div id="content">
 				<a href="/winning-films">
-							<div class="text-center banner">Check out the 2015 Salt Flats Film winners!!!</div>
+				<div class="banner text-center">Check out the 2016 Salt Flats Film winners!!!</div>
 				</a>
 				 <div class="row">	
 						<div id="main-page">

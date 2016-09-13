@@ -8,12 +8,12 @@
  	<div class="container">
 		<div id="content">
 			<a href="/winning-films">
-				<div class="banner text-center">Check out the 2015 Salt Flats Film winners!!!</div>
+				<div class="banner text-center">Check out the 2016 Salt Flats Film winners!!!</div>
 			</a>
 			<h3 class="text-center">Submitting Your Film</h3>
 			<img src="/img/sfff_filming.jpg" class=" title img-responsive center-block" ></img>
 			<div class="row">
-				<div class="col-md-5">
+				<!--<div class="col-md-5">
 					<h4 class="underline">So you want to submit a film?</h4>
 						Great, show us what you've got!!!<br> 
 						First, make sure you meet these requirements:
@@ -47,7 +47,8 @@
 					<p>You can also submit you film online on our FilmFreeway Page, click on the image below</p>
 					<div><a href="https://filmfreeway.com/festival/SaltFlatsFilmFestival"> 
 					<img src="/img/submit_btn-black.png"</img></a></div>
-				</div>
+				</div> !-->
+				<h4 class="text-center">Submission are now closed.</h4>
 			</div>
 		</div>
  	</div>
