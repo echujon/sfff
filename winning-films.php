@@ -22,7 +22,7 @@
 				</div>
 				<div class=" winners col-md-4">
 				<h4>Junior Audience Award</h4> 
-				<span class="film-title">Cool Jacket Dude: Jacket Before Time</span><br/>by Humpries & Hinckley Family				
+				<span class="film-title">Cool Jacket Dude: The Jacket Before Time</span><br/>by Humphries & Hinckley Family				
 				<img class="img-responsive img-pad" src="/img/films/2016/jacket_before_time.jpg"/>
 				<h4>Audience Award</h4> 
 				<span class="film-title">Mine</span><br/>by Nick Dixon
