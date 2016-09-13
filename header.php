@@ -77,7 +77,7 @@
 				  <a  class="<?php echo "${more}" ?> dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More<span class="caret"></span></a>
 				<ul class="dropdown-menu">
 					<li><a <?php echo "${active['events-and-awards']}" ?>href="/events-and-awards">Events And Awards</a></li>
-					<li><a <?php echo "${active['winning-films']}" ?>href="/winning-films">2015 Winning Films</a></li>
+					<li><a <?php echo "${active['winning-films']}" ?>href="/winning-films">2016 Winning Films</a></li>
 				</ul>
             </li>
 		  </ul>

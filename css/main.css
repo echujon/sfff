@@ -301,6 +301,11 @@ p.sponsors {
 .title-pad, .img-pad {
 	padding-bottom: 10px;
 }
+
+span.film-title {
+    font-size: 16px;
+    font-weight: 600;
+}
 .underline {
  	border-bottom-color: #a5a5a5;
  	border-bottom: 2px solid;
