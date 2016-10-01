@@ -14,7 +14,7 @@
 					to the following sponsors:</p>
 				<div class="col-md-6">
 					<a href="http://www.tophatvideo.com/">
-						<img class="center-block fix img-responsive" src="/img/sponsors/thv.png"/>
+						<img class="center-block img-responsive" src="/img/sponsors/thv.png"/>
 					</a>
 				</div>
 				<div class="col-md-6">
