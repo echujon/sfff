@@ -48,7 +48,7 @@
 					<div><a href="https://filmfreeway.com/festival/SaltFlatsFilmFestival"> 
 					<img src="/img/submit_btn-black.png"</img></a></div>
 				</div> !-->
-				<h4 class="text-center">Submission are now closed.</h4>
+				<h4 class="text-center">Submissions are now closed.</h4>
 			</div>
 		</div>
  	</div>
